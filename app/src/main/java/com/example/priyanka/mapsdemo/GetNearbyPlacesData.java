@@ -1,6 +1,5 @@
 package com.example.priyanka.mapsdemo;
 
-
 import android.os.AsyncTask;
 import android.util.Log;
 
